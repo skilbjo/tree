@@ -25,7 +25,7 @@ Desired output:
 				children: {
 					id:"100380",
 					children: {}
-			}
+				}
 			}
 		}
 	}
